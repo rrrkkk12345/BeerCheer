@@ -1,10 +1,13 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_checkbox",
   "spriteId": {
     "name": "spr_sound_checkbox",
     "path": "sprites/spr_sound_checkbox/spr_sound_checkbox.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -22,7 +25,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":true,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":4,"eventType":6,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,8 +33,4 @@
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_checkbox",
-  "tags": [],
-  "resourceType": "GMObject",
 }
